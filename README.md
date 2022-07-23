@@ -1,4 +1,4 @@
-## 💫 About  <a href="URL_REDIRECT" target="blank"><img align="right" src="https://simpleicons.org/icons/linkedin.svg" height="20" /></a>
+## 💫 About  <a href="https://www.linkedin.com/in/juin-lee/" target="blank"><img align="right" src="https://simpleicons.org/icons/linkedin.svg" height="20" /></a>
 Currently a Sophomore studying for a Bachelor's Degree in Computer Science at Nanyang Technological University, Singapore. 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neo-Zenith&count_private=true&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
