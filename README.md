@@ -10,7 +10,7 @@ Currently a Sophomore studying for a Bachelor's Degree in Computer Science at Na
   <img src="https://img.shields.io/badge/VSCode-0078D6?style=for-the-badge&logo=visualstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /> 
-  
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
 
@@ -23,6 +23,7 @@ Currently a Sophomore studying for a Bachelor's Degree in Computer Science at Na
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
   <img src="https://img.shields.io/badge/CSS3-239120?&style=for-the-badge&logo=css3&logoColor=white" /> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
+  
   
 </p>
 
