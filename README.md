@@ -1,9 +1,13 @@
 ## 💫 About  <a href="https://www.linkedin.com/in/juin-lee/" title="LinkedIn"><img align="right" src="https://simpleicons.org/icons/linkedin.svg" height="20" /></a> <a href="https://leetcode.com/Neo-Zenith/" title="LeetCode"><img align="right" src="https://simpleicons.org/icons/leetcode.svg" height="20" /></a> <a href="https://www.hackerrank.com/Neo_Zenith" title="HackerRank"><img align="right" src="https://simpleicons.org/icons/hackerrank.svg" height="20" /></a>
 Hi! I am Lee Juin, a Sophomore undergraduate in Computer Science at Nanyang Technological University, Singapore. Currently exploring my interest in the field of Machine Learning, Data Science & Artificial Intelligence.
 
-![Neo-Zenith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neo-Zenith&count_private=true&theme=material-palenight&show_icons=true)
+![Neo-Zenith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neo-Zenith&count_private=true&theme=material-palenight&show_icons=true) [![GitHub Streak](https://streak-stats.demolab.com?user=Neo-Zenith&theme=material-palenight)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neo-Zenith&theme=buefy&show_icons=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neo-Zenith&theme=material-palenight&show_icons=true&layout=compact) 
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/Neo-Zenith?theme=unicorn)
+
+
 
 ## <img align="left" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/hammer-and-wrench_1f6e0-fe0f.png" height="30" /> Tools
 <p>
