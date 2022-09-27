@@ -14,6 +14,8 @@ Hi! I am Lee Juin, a Sophomore undergraduate in Computer Science at Nanyang Tech
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Neo-Zenith&repo=Analysis-of-Algorithms&theme=buefy)](https://github.com/Neo-Zenith/Analysis-of-Algorithms)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Neo-Zenith&repo=site&theme=buefy)](https://github.com/Neo-Zenith/site) 
+
 ## <img align="left" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/hammer-and-wrench_1f6e0-fe0f.png" height="30" /> Tools
 <p>
   <img src="https://img.shields.io/badge/VSCode-0078D6?style=for-the-badge&logo=visualstudio&logoColor=white" />
