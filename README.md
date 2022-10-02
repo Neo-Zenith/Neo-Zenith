@@ -10,6 +10,8 @@ Hi! I am Lee Juin, a Sophomore undergraduate in Computer Science at Nanyang Tech
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Neo-Zenith?theme=unicorn)
 
 ## <img align="left" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/briefcase_1f4bc.png" height="30" />Projects Showcase
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Neo-Zenith&repo=Project-ASES&theme=buefy)](https://github.com/Neo-Zenith/Project-ASES) 
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Neo-Zenith&repo=Text-Message-Sentiment-Analyser&theme=buefy)](https://github.com/Neo-Zenith/Text-Message-Sentiment-Analyser) 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Neo-Zenith&repo=Analysis-of-Algorithms&theme=buefy)](https://github.com/Neo-Zenith/Analysis-of-Algorithms)
