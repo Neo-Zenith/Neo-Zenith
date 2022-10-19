@@ -41,6 +41,16 @@ Hi! I am Lee Juin, a Sophomore undergraduate in Computer Science at Nanyang Tech
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
 </p>
 
+## <img align="left" src="https://cdn-icons-png.flaticon.com/512/4264/4264850.png" height="30" /> Cloud
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+</p>
+
+## <img align="left" src="https://static.vecteezy.com/system/resources/thumbnails/004/657/673/small/database-line-style-icon-free-vector.jpg" height="30" /> Database
+<p>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 ## <img align="left" src="https://cdn-icons-png.flaticon.com/512/3716/3716795.png" height="30" />Data Science & Machine Learning
 <p>
@@ -48,4 +58,5 @@ Hi! I am Lee Juin, a Sophomore undergraduate in Computer Science at Nanyang Tech
   <img src="https://img.shields.io/badge/ScikitLearn-f89939?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/streamlit-bd4043?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
