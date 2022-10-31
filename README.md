@@ -7,6 +7,9 @@ Hi! I am Lee Juin, a Sophomore undergraduate in Computer Science at Nanyang Tech
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neo-Zenith&theme=buefy&show_icons=true&layout=compact) 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Neo-Zenith?theme=unicorn)
 
 ## <img align="left" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/briefcase_1f4bc.png" height="30" />Projects Showcase
