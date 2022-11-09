@@ -1,14 +1,11 @@
 ## 💫 About  <a href="https://www.linkedin.com/in/juin-lee/" title="LinkedIn"><img align="right" src="https://simpleicons.org/icons/linkedin.svg" height="20" /></a> <a href="https://leetcode.com/Neo-Zenith/" title="LeetCode"><img align="right" src="https://simpleicons.org/icons/leetcode.svg" height="20" /></a> <a href="https://www.hackerrank.com/Neo_Zenith" title="HackerRank"><img align="right" src="https://simpleicons.org/icons/hackerrank.svg" height="20" /></a>
 Hi! I am Lee Juin, a Sophomore undergraduate in Computer Science at Nanyang Technological University, Singapore. Currently exploring my interest in the field of Machine Learning, Data Science & Artificial Intelligence.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Neo-Zenith&theme=buefy)](https://git.io/streak-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Neo-Zenith&theme=buefy&border=DFDFDF)](https://git.io/streak-stats)  ![Neo-Zenith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neo-Zenith&count_private=true&theme=buefy&show_icons=true) 
 
-![Neo-Zenith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neo-Zenith&count_private=true&theme=buefy&show_icons=true) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neo-Zenith&theme=buefy&show_icons=true&layout=compact) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neo-Zenith&theme=buefy&show_icons=true&layout=compact&hide=Jupyter%20Notebook) 
 
 <!--START_SECTION:waka-->
-
 ```text
 From: 01 November 2022 - To: 08 November 2022
 
@@ -18,10 +15,8 @@ Markdown     45 mins         -------------------------   01.64 %
 CSV          1 min           -------------------------   00.05 %
 Other        1 min           -------------------------   00.04 %
 ```
-
 <!--END_SECTION:waka-->
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Neo-Zenith?theme=unicorn)
 
 ## <img align="left" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/briefcase_1f4bc.png" height="30" />Projects Showcase
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Neo-Zenith&repo=Project-ASES&theme=buefy)](https://github.com/Neo-Zenith/Project-ASES) 
@@ -42,7 +37,8 @@ Other        1 min           -------------------------   00.04 %
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />   
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> 
 </p>
 
 
