@@ -25,7 +25,6 @@ Other        4 mins          ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Neo-Zenith&repo=Project-ASES&theme=buefy)](https://github.com/Neo-Zenith/Project-ASES) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Neo-Zenith&repo=Text-Message-Sentiment-Analyser&theme=buefy)](https://github.com/Neo-Zenith/Text-Message-Sentiment-Analyser) 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Neo-Zenith&repo=Analysis-of-Algorithms&theme=buefy)](https://github.com/Neo-Zenith/Analysis-of-Algorithms)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Neo-Zenith&repo=FindR-E-Commerce-Price-Comparison-App&theme=buefy)](https://github.com/Neo-Zenith/FindR-E-Commerce-Price-Comparison-App) 
 
 ## <img align="left" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/hammer-and-wrench_1f6e0-fe0f.png" height="30" /> Tools
