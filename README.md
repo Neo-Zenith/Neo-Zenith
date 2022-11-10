@@ -1,4 +1,4 @@
-## 💫 About  <a href="https://www.linkedin.com/in/juin-lee/" title="LinkedIn"><img align="right" src="https://simpleicons.org/icons/linkedin.svg" height="20" /></a> <a href="https://leetcode.com/Neo-Zenith/" title="LeetCode"><img align="right" src="https://simpleicons.org/icons/leetcode.svg" height="20" /></a> <a href="https://www.hackerrank.com/Neo_Zenith" title="HackerRank"><img align="right" src="https://simpleicons.org/icons/hackerrank.svg" height="20" /></a>
+## 💫 About  <a href="https://www.linkedin.com/in/juin-lee/" title="LinkedIn"><img align="right" src="https://simpleicons.org/icons/linkedin.svg" height="25" /></a>
 Hi! I am Lee Juin, a Sophomore undergraduate in Computer Science at Nanyang Technological University, Singapore. Currently exploring my interest in the field of Machine Learning, Data Science & Artificial Intelligence.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Neo-Zenith&theme=material-palenight&border=DFDFDF)](https://git.io/streak-stats)  ![Neo-Zenith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neo-Zenith&count_private=true&theme=material-palenight&show_icons=true) 
