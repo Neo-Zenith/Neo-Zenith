@@ -6,15 +6,18 @@ Hi! I am Lee Juin, a Sophomore undergraduate in Computer Science at Nanyang Tech
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neo-Zenith&theme=buefy&show_icons=true&layout=compact&hide=Jupyter%20Notebook) 
 
 <!--START_SECTION:waka-->
-```text
-From: 01 November 2022 - To: 08 November 2022
 
-Java         42 hrs 52 mins  >>>>>>>>>>>>>>>>>>>>>>>--   92.76 %
-C++          2 hrs 29 mins   >------------------------   05.39 %
-Markdown     45 mins         -------------------------   01.64 %
-CSV          1 min           -------------------------   00.05 %
-Other        1 min           -------------------------   00.04 %
+```text
+From: 02 November 2022 - To: 09 November 2022
+
+Java         36 hrs 59 mins  ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▇▇▇   88.31 %
+C++          3 hrs 16 mins   ▃▃▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇   07.81 %
+Markdown     49 mins         ▅▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇   01.96 %
+CSS          32 mins         ▅▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇   01.29 %
+JSON         4 mins          ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇   00.17 %
+Other        4 mins          ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇   00.16 %
 ```
+
 <!--END_SECTION:waka-->
 
 
