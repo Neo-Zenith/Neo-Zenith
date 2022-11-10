@@ -1,9 +1,9 @@
 ## 💫 About  <a href="https://www.linkedin.com/in/juin-lee/" title="LinkedIn"><img align="right" src="https://simpleicons.org/icons/linkedin.svg" height="20" /></a> <a href="https://leetcode.com/Neo-Zenith/" title="LeetCode"><img align="right" src="https://simpleicons.org/icons/leetcode.svg" height="20" /></a> <a href="https://www.hackerrank.com/Neo_Zenith" title="HackerRank"><img align="right" src="https://simpleicons.org/icons/hackerrank.svg" height="20" /></a>
 Hi! I am Lee Juin, a Sophomore undergraduate in Computer Science at Nanyang Technological University, Singapore. Currently exploring my interest in the field of Machine Learning, Data Science & Artificial Intelligence.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Neo-Zenith&theme=buefy&border=DFDFDF)](https://git.io/streak-stats)  ![Neo-Zenith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neo-Zenith&count_private=true&theme=buefy&show_icons=true) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Neo-Zenith&theme=material-palenight&border=DFDFDF)](https://git.io/streak-stats)  ![Neo-Zenith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neo-Zenith&count_private=true&theme=material-palenight&show_icons=true) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neo-Zenith&theme=buefy&show_icons=true&layout=compact&hide=Jupyter%20Notebook) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neo-Zenith&theme=material-palenight&show_icons=true&layout=compact&hide=Jupyter%20Notebook) 
 
 <!--START_SECTION:waka-->
 
@@ -22,10 +22,10 @@ Other        4 mins          ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇
 
 
 ## <img align="left" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/briefcase_1f4bc.png" height="30" />Projects Showcase
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Neo-Zenith&repo=Project-ASES&theme=buefy)](https://github.com/Neo-Zenith/Project-ASES) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Neo-Zenith&repo=Text-Message-Sentiment-Analyser&theme=buefy)](https://github.com/Neo-Zenith/Text-Message-Sentiment-Analyser) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Neo-Zenith&repo=Project-ASES&theme=material-palenight)](https://github.com/Neo-Zenith/Project-ASES) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Neo-Zenith&repo=Text-Message-Sentiment-Analyser&theme=material-palenight)](https://github.com/Neo-Zenith/Text-Message-Sentiment-Analyser) 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Neo-Zenith&repo=FindR-E-Commerce-Price-Comparison-App&theme=buefy)](https://github.com/Neo-Zenith/FindR-E-Commerce-Price-Comparison-App) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Neo-Zenith&repo=Project-FindR&theme=material-palenight)](https://github.com/Neo-Zenith/FindR-E-Commerce-Price-Comparison-App) 
 
 ## <img align="left" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/hammer-and-wrench_1f6e0-fe0f.png" height="30" /> Tools
 <p>
