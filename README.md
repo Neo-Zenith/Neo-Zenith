@@ -29,6 +29,7 @@ Other        4 mins          ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇
 
 ## <img align="left" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/hammer-and-wrench_1f6e0-fe0f.png" height="30" /> Tools
 <p>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-0078D6?style=for-the-badge&logo=visualstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /> 
