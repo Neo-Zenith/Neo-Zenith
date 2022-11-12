@@ -25,7 +25,8 @@ JavaScript   5 mins          -------------------------   00.27 %
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Neo-Zenith&repo=Project-ASES&theme=material-palenight)](https://github.com/Neo-Zenith/Project-ASES) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Neo-Zenith&repo=Text-Message-Sentiment-Analyser&theme=material-palenight)](https://github.com/Neo-Zenith/Text-Message-Sentiment-Analyser) 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Neo-Zenith&repo=Project-FindR&theme=material-palenight)](https://github.com/Neo-Zenith/FindR-E-Commerce-Price-Comparison-App) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Neo-Zenith&repo=Project-FindR&theme=material-palenight)](https://github.com/Neo-Zenith/Project-FindR) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Neo-Zenith&repo=Project-MOBLIMA&theme=material-palenight)](https://github.com/Neo-Zenith/Project-MOBLIMA) 
 
 ## <img align="left" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/hammer-and-wrench_1f6e0-fe0f.png" height="30" /> Tools
 <p>
