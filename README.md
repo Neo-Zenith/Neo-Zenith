@@ -8,14 +8,14 @@ Hi! I am Lee Juin, a Sophomore undergraduate in Computer Science at Nanyang Tech
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 November 2022 - To: 19 November 2022
+From: 13 November 2022 - To: 20 November 2022
 
-C             3 hrs 11 mins   >>>>>>>>>>>>>>-----------   55.09 %
-C++           1 hr 8 mins     >>>>>--------------------   19.83 %
-Markdown      26 mins         >>-----------------------   07.49 %
-Java          24 mins         >>-----------------------   07.07 %
-Go            13 mins         >------------------------   03.95 %
-JSON          9 mins          >------------------------   02.85 %
+C             3 hrs 11 mins   >>>>>>>>>>>--------------   45.70 %
+C++           1 hr 23 mins    >>>>>--------------------   19.84 %
+Java          1 hr 21 mins    >>>>>--------------------   19.52 %
+Markdown      26 mins         >>-----------------------   06.22 %
+Go            13 mins         >------------------------   03.27 %
+JSON          9 mins          >------------------------   02.37 %
 ```
 
 <!--END_SECTION:waka-->
