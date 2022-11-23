@@ -20,14 +20,6 @@ Python        7 mins          -------------------------   01.64 %
 
 <!--END_SECTION:waka-->
 
-
-## <img align="left" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/briefcase_1f4bc.png" height="30" />Projects Showcase
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Neo-Zenith&repo=Project-ASES&theme=material-palenight)](https://github.com/Neo-Zenith/Project-ASES) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Neo-Zenith&repo=Text-Message-Sentiment-Analyser&theme=material-palenight)](https://github.com/Neo-Zenith/Text-Message-Sentiment-Analyser) 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Neo-Zenith&repo=Project-FindR&theme=material-palenight)](https://github.com/Neo-Zenith/Project-FindR) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Neo-Zenith&repo=Project-MOBLIMA&theme=material-palenight)](https://github.com/Neo-Zenith/Project-MOBLIMA) 
-
 ## <img align="left" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/hammer-and-wrench_1f6e0-fe0f.png" height="30" /> Tools
 <p>
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
