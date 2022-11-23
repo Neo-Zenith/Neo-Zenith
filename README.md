@@ -1,10 +1,11 @@
-## 💫 About  <a href="https://www.linkedin.com/in/juin-lee/" title="LinkedIn"><img align="right" src="https://simpleicons.org/icons/linkedin.svg" height="25" /></a>
+## 💫 &nbsp;About  <a href="https://www.linkedin.com/in/juin-lee/" title="LinkedIn"><img align="right" src="https://simpleicons.org/icons/linkedin.svg" height="25" /></a>
 Hi! I am Lee Juin, a Sophomore undergraduate in Computer Science at Nanyang Technological University, Singapore. Currently exploring my interest in the field of Machine Learning, Data Science & Artificial Intelligence.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Neo-Zenith&theme=material-palenight&border=DFDFDF)](https://git.io/streak-stats)  ![Neo-Zenith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neo-Zenith&count_private=true&theme=material-palenight&show_icons=true) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neo-Zenith&theme=material-palenight&show_icons=true&layout=compact&hide=Jupyter%20Notebook) 
 
+## <img align="left" src="https://images.emojiterra.com/twitter/v13.1/512px/1f4bc.png" height="30" /> Productivity
 <!--START_SECTION:waka-->
 
 ```text
