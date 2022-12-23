@@ -64,6 +64,5 @@ HTML         2 mins          -------------------------   01.21 %
   <img src="https://img.shields.io/badge/Pandas-160458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/ScikitLearn-f89939?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/streamlit-bd4043?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
