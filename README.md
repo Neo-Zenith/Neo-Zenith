@@ -1,6 +1,25 @@
 ## 💫 &nbsp;About  <a href="https://www.linkedin.com/in/juin-lee/" title="LinkedIn"><img align="right" src="https://simpleicons.org/icons/linkedin.svg" height="25" /></a>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&duration=3500&pause=1000&color=77BAD9&background=292D3E00&vCenter=true&width=350&lines=Hi!+Welcome+to+my+GitHub+Profile!;I+am+a+Full-Stack+Developer;I+am+a+Sophomore+CS+Undegraduate)](https://git.io/typing-svg)
 
+```Java
+public class LeeJuin extends Developer implements StudentInterface {
+    private String name = "Lee Juin"
+    private String current_status = "Sophomore CS undergraduate @ NTU, Singapore"
+  
+    public Location getLocation() {
+      return Singapore;
+    }
+    
+    public String getQuote() {
+      return "My code never has bugs, it just develops random unexpected features."
+    }
+}
+```
+
+<details>
+  <summary><b>Stats</b></summary>
+  
 ## <img align="left" src="https://images.emojiterra.com/twitter/v13.1/512px/1f4bc.png" height="30" /> Productivity
 [![GitHub Streak](https://streak-stats.demolab.com?user=Neo-Zenith&theme=material-palenight&border=DFDFDF)](https://git.io/streak-stats)  ![Neo-Zenith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neo-Zenith&count_private=true&theme=material-palenight&show_icons=true) 
 
@@ -18,9 +37,10 @@ HTML         0 secs          -------------------------   00.14 %
 ```
 
 <!--END_SECTION:waka-->
-
+</details>
+  
 <details>
-<summary>Tech</summary>
+<summary><b>Tech</b></summary>
 
 ## <img width="20px" src="https://cdn-icons-png.flaticon.com/512/107/107794.png" />  Languages
   
