@@ -1,6 +1,6 @@
 ## 💫 &nbsp;About  <a href="https://www.linkedin.com/in/juin-lee/" title="LinkedIn"><img align="right" src="https://simpleicons.org/icons/linkedin.svg" height="25" /></a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&duration=3500&pause=1000&color=77BAD9&background=292D3E00&vCenter=true&width=350&height=35&lines=Hi!+Welcome+to+my+GitHub+Profile!;I+am+a+Full-Stack+Developer;I+am+a+Sophomore+CS+Undegraduate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&duration=3500&pause=1000&color=77BAD9&background=292D3E00&vCenter=true&width=350&height=35&lines=Hi!+Welcome+to+my+GitHub+profile!;I+am+a+full-stack+developer.;I+am+an+ML/AI+enthusiast.)](https://git.io/typing-svg)
 
 ```Java
 public class LeeJuin extends Developer implements StudentInterface {
