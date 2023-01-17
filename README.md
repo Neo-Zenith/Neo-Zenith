@@ -20,7 +20,7 @@ public class LeeJuin extends Developer implements StudentInterface {
 <details>
   <summary><b>Stats</b></summary>
   
-## <img src="https://www.iconpacks.net/icons/2/free-briefcase-icon-1965-thumb.png" height="30" /> Productivity
+## <img src="https://www.iconpacks.net/icons/2/free-briefcase-icon-1965-thumb.png" height="20px" /> Productivity
 [![GitHub Streak](https://streak-stats.demolab.com?user=Neo-Zenith&theme=material-palenight&border=DFDFDF)](https://git.io/streak-stats)  ![Lee Juin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neo-Zenith&show_icons=true&theme=material-palenight&border=DFDFDF)
 
 <!--START_SECTION:waka-->
@@ -40,7 +40,7 @@ Text         0 secs          -------------------------   00.17 %
 <details>
 <summary><b>Tech</b></summary>
 
-## <img width="30px" src="https://cdn-icons-png.flaticon.com/512/107/107794.png" />  Languages
+## <img width="20px" src="https://cdn-icons-png.flaticon.com/512/107/107794.png" />  Languages
   
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -50,7 +50,7 @@ Text         0 secs          -------------------------   00.17 %
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   </p>
 
-## <img width="30px" src="https://cdn-icons-png.flaticon.com/512/1505/1505516.png" />  Tools
+## <img width="20px" src="https://cdn-icons-png.flaticon.com/512/1505/1505516.png" />  Tools
   
   <p>
     <img src="https://img.shields.io/badge/VSCode-1a88d1?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
@@ -59,7 +59,7 @@ Text         0 secs          -------------------------   00.17 %
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   </p>
 
-## <img width="30px" src="https://cdn.iconscout.com/icon/free/png-256/data-science-46-1170621.png" />  Data Science
+## <img width="20px" src="https://cdn.iconscout.com/icon/free/png-256/data-science-46-1170621.png" />  Data Science
   
   <p>
     <img src="https://img.shields.io/badge/Pandas-0c0454?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -68,7 +68,7 @@ Text         0 secs          -------------------------   00.17 %
     <img src="https://img.shields.io/badge/OpenCV-01ff01?style=for-the-badge&logo=opencv&logoColor=white" />
   </p>
 
-## <img width="30px" src="https://i.pinimg.com/originals/11/f2/fd/11f2fd963a2028fa67ce38ffe0e92bc5.png" />  Web Development
+## <img width="20px" src="https://i.pinimg.com/originals/11/f2/fd/11f2fd963a2028fa67ce38ffe0e92bc5.png" />  Web Development
   
   <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
