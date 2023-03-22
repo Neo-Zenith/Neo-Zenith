@@ -26,14 +26,14 @@ public class LeeJuin extends Developer implements StudentInterface {
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 March 2023 - To: 21 March 2023
+From: 15 March 2023 - To: 22 March 2023
 
-Python       3 hrs 6 mins    >>>>>>>>>>---------------   38.51 %
-CSS          2 hrs 1 min     >>>>>>-------------------   25.11 %
-Markdown     59 mins         >>>----------------------   12.26 %
-JavaScript   53 mins         >>>----------------------   11.03 %
-C            32 mins         >>-----------------------   06.83 %
-Text         19 mins         >------------------------   04.04 %
+Python       3 hrs 5 mins    >>>>>>>>>>---------------   39.65 %
+Java         1 hr 55 mins    >>>>>>-------------------   24.73 %
+Markdown     1 hr 5 mins     >>>----------------------   13.96 %
+C            32 mins         >>-----------------------   07.06 %
+CSS          27 mins         >------------------------   05.95 %
+Text         18 mins         >------------------------   03.94 %
 ```
 
 <!--END_SECTION:waka-->
