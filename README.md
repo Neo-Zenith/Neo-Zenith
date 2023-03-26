@@ -5,7 +5,7 @@
 ```Java
 public class LeeJuin extends Developer implements StudentInterface {
     private String name = "Lee Juin"
-    private String current_status = "Sophomore CS undergraduate @ NTU, Singapore"
+    private String title = "Fullstack Developer @ NTU, Singapore"
   
     public Location getLocation() {
       return Singapore;
@@ -14,11 +14,12 @@ public class LeeJuin extends Developer implements StudentInterface {
     public String getQuote() {
       return "My code never has bugs, it just develops random unexpected features."
     }
+    
+    public String getStatus() {
+      return "Looking for internship opportunites in software development and applied AI."
+    }
 }
 ```
-
-<details>
-  <summary><b>Stats</b></summary>
   
 ## <img src="https://www.iconpacks.net/icons/2/free-briefcase-icon-1965-thumb.png" height="20px" /> Productivity
 [![GitHub Streak](https://streak-stats.demolab.com?user=Neo-Zenith&theme=material-palenight&border=DFDFDF)](https://git.io/streak-stats)  ![Lee Juin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neo-Zenith&show_icons=true&theme=material-palenight&border=DFDFDF)
@@ -37,10 +38,7 @@ JavaScript   24 mins         >------------------------   03.72 %
 ```
 
 <!--END_SECTION:waka-->
-</details>
-  
-<details>
-<summary><b>Tech</b></summary>
+
 
 ## <img width="20px" src="https://cdn-icons-png.flaticon.com/512/107/107794.png" />  Languages
   
@@ -59,31 +57,31 @@ JavaScript   24 mins         >------------------------   03.72 %
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/Jupyter-f37821?style=for-the-badge&logo=jupyter&logoColor=white" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
     <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
   </p>
 
-## <img width="20px" src="https://cdn.iconscout.com/icon/free/png-256/data-science-46-1170621.png" />  Data Science
+## <img width="20px" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/robotics-32-604550.png?f=avif&w=256" />  AI & ML
   
   <p>
     <img src="https://img.shields.io/badge/Pandas-0c0454?style=for-the-badge&logo=pandas&logoColor=white" />
-    <img src="https://img.shields.io/badge/Streamlit-bd4043?style=for-the-badge&logo=streamlit&logoColor=white" />
     <img src="https://img.shields.io/badge/Scikit%20learn-f89a36?style=for-the-badge&logo=scikit-learn&logoColor=white" />
     <img src="https://img.shields.io/badge/OpenCV-01ff01?style=for-the-badge&logo=opencv&logoColor=white" />
+  </p>
+  
+## <img width="20px" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/devops-5387191-4498732.png?f=avif&w=256" />  DevOps
+  
+  <p>
+    <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=Docker&logoColor=white" />
   </p>
 
 ## <img width="20px" src="https://i.pinimg.com/originals/11/f2/fd/11f2fd963a2028fa67ce38ffe0e92bc5.png" />  Web Development
   
   <p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-    <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
   </p>
-  
-</details>
