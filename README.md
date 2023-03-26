@@ -5,7 +5,7 @@
 ```Java
 public class LeeJuin extends Developer implements StudentInterface {
     private String name = "Lee Juin"
-    private String title = "Fullstack Developer @ NTU, Singapore"
+    private String title = "Full-stack Developer @ NTU, Singapore"
   
     public Location getLocation() {
       return Singapore;
