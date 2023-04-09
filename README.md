@@ -24,7 +24,7 @@ public class LeeJuin extends Developer implements StudentInterface {
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neo-zenith&label=Profile%20views&color=0e75b6&style=flat" alt="neo-zenith" /> </p>
   
 ## <img src="https://www.iconpacks.net/icons/2/free-briefcase-icon-1965-thumb.png" height="20px" /> Productivity
-[![GitHub Streak](https://streak-stats.demolab.com?user=Neo-Zenith&theme=material-palenight&border=DFDFDF)](https://git.io/streak-stats)  ![Lee Juin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neo-Zenith&show_icons=true&theme=material-palenight&border=DFDFDF)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Neo-Zenith&theme=material-palenight&border=DFDFDF&count_private=true)](https://git.io/streak-stats)  ![Lee Juin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neo-Zenith&show_icons=true&theme=material-palenight&border=DFDFDF&count_private=true&include_all_commits=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neo-Zenith&hide=jupyter%20notebook&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 
