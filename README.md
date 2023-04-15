@@ -31,11 +31,9 @@ public class LeeJuin extends Developer implements StudentInterface {
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 April 2023 - To: 14 April 2023
+From: 08 April 2023 - To: 15 April 2023
 
-JavaScript   3 hrs 3 mins    >>>>>>>>>>>>>>>----------   61.39 %
-CSS          1 hr 54 mins    >>>>>>>>>>---------------   38.56 %
-HTML         0 secs          -------------------------   00.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
