@@ -8,15 +8,15 @@ public class LeeJuin extends Developer implements StudentInterface {
     private String title = "Full-stack Developer @ NTU, Singapore"
   
     public Location getLocation() {
-      return Singapore;
+      return COUNTRY.Singapore;
     }
     
     public String getQuote() {
       return "My code never has bugs, it just develops random unexpected features."
     }
     
-    public String getStatus() {
-      return "Looking for internship opportunites in software development and applied AI."
+    public String getInterests() {
+      return "Applied AI Software Development"
     }
 }
 ```
