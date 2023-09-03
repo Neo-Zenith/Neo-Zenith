@@ -5,7 +5,8 @@
 ```Java
 public class LeeJuin extends Developer implements StudentInterface {
     private String name = "Lee Juin"
-    private String title = "Full-stack Developer @ NTU, Singapore"
+    private String title = "Full-stack Developer @ Temasek Lab"
+    private String status = "Working on multiple projects involving MERN stack."
   
     public Location getLocation() {
       return COUNTRY.Singapore;
@@ -13,10 +14,6 @@ public class LeeJuin extends Developer implements StudentInterface {
     
     public String getQuote() {
       return "My code never has bugs, it just develops random unexpected features."
-    }
-    
-    public String getInterests() {
-      return "Applied AI Software Development"
     }
 }
 ```
