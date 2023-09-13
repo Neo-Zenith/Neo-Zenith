@@ -53,12 +53,11 @@ TypeScript   0 secs          -------------------------   00.01 %
 ## <img width="20px" src="https://cdn-icons-png.flaticon.com/512/1505/1505516.png" />  Tools
   
   <p>
-    <img src="https://img.shields.io/badge/VSCode-1a88d1?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+    <img src="https://img.shields.io/badge/figma-eb4c1c?style=for-the-badge&logo=figma&logoColor=white" />
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/Jupyter-f37821?style=for-the-badge&logo=jupyter&logoColor=white" />
     <img src="https://img.shields.io/badge/Postman-FC8019?style=for-the-badge&logo=Postman&logoColor=white" />
-    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+    <img src="https://img.shields.io/badge/swagger-83e82d?style=for-the-badge&logo=swagger&logoColor=black" />
   </p>
 
 ## <img width="20px" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/robotics-32-604550.png?f=avif&w=256" />  AI & ML
@@ -72,17 +71,23 @@ TypeScript   0 secs          -------------------------   00.01 %
 ## <img width="20px" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/devops-5387191-4498732.png?f=avif&w=256" />  DevOps
   
   <p>
+    <img src="https://img.shields.io/badge/github%20actions-1f2428?style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
     <img src="https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=Docker&logoColor=white" />
   </p>
 
-## <img width="20px" src="https://i.pinimg.com/originals/11/f2/fd/11f2fd963a2028fa67ce38ffe0e92bc5.png" />  Web Development
+## <img width="20px" src="https://i.pinimg.com/originals/11/f2/fd/11f2fd963a2028fa67ce38ffe0e92bc5.png" />  Frontend Technologies
   
   <p>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/material%20ui-0084ff?style=for-the-badge&logo=mui&logoColor=white" />
+  </p>
+
+## <img width="20px" src="https://i.pinimg.com/originals/11/f2/fd/11f2fd963a2028fa67ce38ffe0e92bc5.png" />  Backend Technologies
+  <p>
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express" />
     <img src="https://img.shields.io/badge/Nestjs-e53059?style=for-the-badge&logo=Nestjs&logoColor=white" />
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
