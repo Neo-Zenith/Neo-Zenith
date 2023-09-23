@@ -26,7 +26,6 @@ I am `Lee Juin`, and I am currently a penultimate year undergraduate at NTU Sing
 * <a href="https://github.com/Neo-Zenith/baggage-status-app">Neo-Zenith/baggage-status-app</a> Powered by Arduino, ReadyBex is an IoT web app that provides a real-time update service for passengers to monitor their baggage status.
 
 ## Technologies
-
 ![Python](http://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![C](http://img.shields.io/badge/-C-3776AB?style=flat-square&logo=c&logoColor=ffffff)
 ![C++](http://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=ffffff)
@@ -55,3 +54,12 @@ I am `Lee Juin`, and I am currently a penultimate year undergraduate at NTU Sing
 ![SQLite](https://img.shields.io/badge/Sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL-%2307405e.svg?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+
+## Productivity
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-Juin_Lee-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juin-lee/)](https://www.linkedin.com/in/juin-lee/)
+[![Email](https://img.shields.io/badge/-Mail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:mail@juin.lee@outlook.com)
+[![GitHub](https://img.shields.io/github/followers/Neo-Zenith?style=social&label=Follow)](https://github.com/Neo-Zenith)
