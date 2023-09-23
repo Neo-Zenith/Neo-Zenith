@@ -1,5 +1,5 @@
 ## About ⭐
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=34747C&background=FFFFFF00&vCenter=true&width=435&height=30&lines=Hi+there!+Welcome+to+my+GitHub+profile.;I+am+a+full-stack+software+engineer.;Let's+get+connected!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&height=35&lines=Hi+there!+Welcome+to+my+GitHub+profile.;I+am+a+full-stack+software+engineer.;Let's+get+connected!)](https://git.io/typing-svg)
 
 I am `Lee Juin`, and I am currently a penultimate year undergraduate at NTU Singapore.
 * 📖 Majoring in Computer Science, specializing in Artificial Intelligence.
