@@ -61,5 +61,5 @@ I am `Lee Juin`, and I am currently a penultimate year undergraduate at NTU Sing
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-Juin_Lee-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juin-lee/)](https://www.linkedin.com/in/juin-lee/)
-[![Email](https://img.shields.io/badge/-Mail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:mail@juin.lee@outlook.com)
+[![Email](https://img.shields.io/badge/-Mail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:juin.lee@outlook.com)
 [![GitHub](https://img.shields.io/github/followers/Neo-Zenith?style=social&label=Follow)](https://github.com/Neo-Zenith)
