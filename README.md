@@ -1,96 +1,57 @@
-## 💫 &nbsp;About  <a href="https://www.linkedin.com/in/juin-lee/" title="LinkedIn"><img align="right" src="https://simpleicons.org/icons/linkedin.svg" height="25" /></a>
+## About ⭐
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=34747C&background=FFFFFF00&vCenter=true&width=435&height=30&lines=Hi+there!+Welcome+to+my+GitHub+profile.;I+am+a+full-stack+software+engineer.;Let's+get+connected!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&duration=3500&pause=1000&color=77BAD9&background=292D3E00&vCenter=true&width=350&height=35&lines=Hi!+Welcome+to+my+GitHub+profile!;I+am+a+full-stack+developer.;Let's+get+connected!)](https://git.io/typing-svg)
+I am `Lee Juin`, and I am currently a penultimate year undergraduate at NTU Singapore.
+* 📖 Majoring in Computer Science, specializing in Artificial Intelligence.
+* 📜 First Class Honours + Dean's List.
+* 💼 2x internship experiences as a full-stack software engineer.
+* 🌐 Full-stack web: MERN, Django, Flask
+* 🔥 Interested in developing user-centric Software as a Service (SaaS) products and solutions.
 
-```Java
-public class LeeJuin extends Developer implements StudentInterface {
-    private String name = "Lee Juin"
-    private String title = "Full-stack Developer @ Temasek Lab"
-    private String status = "Working on multiple projects involving MERN stack."
-  
-    public Location getLocation() {
-      return COUNTRY.Singapore;
-    }
-    
-    public String getQuote() {
-      return "My code never has bugs, it just develops random unexpected features."
-    }
-}
-```
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neo-zenith&label=Profile%20views&color=0e75b6&style=flat" alt="neo-zenith" /> </p>
-  
-## <img src="https://www.iconpacks.net/icons/2/free-briefcase-icon-1965-thumb.png" height="20px" /> Productivity
-[![GitHub Streak](https://streak-stats.demolab.com?user=Neo-Zenith&theme=material-palenight&border=DFDFDF&count_private=true)](https://git.io/streak-stats)  ![Lee Juin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neo-Zenith&show_icons=true&theme=material-palenight&border=DFDFDF&count_private=true&include_all_commits=true) 
+## Work Experience 
+* May 2022 - Aug 2022: Backend Software Engineer Intern @ <a href="https://www.ntu.edu.sg/temasek-labs">Temasek Laboratories@NTU</a>
+* Aug 2022 - Dec 2022: Frontend Software Engineer Intern @ <a href="https://www.ntu.edu.sg/temasek-labs">Temasek Laboratories@NTU</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neo-Zenith&hide=jupyter%20notebook&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+## Projects
+#### Full-stack 👨‍💻
+* <a href="https://github.com/Neo-Zenith/inventory-management-system">Neo-Zenith/inventory-management-system</a>: A full-stack app that streamlines the process of accessing, viewing and booking NTU Heritage Club's inventory items and available event venues.
+* <a href="https://github.com/Neo-Zenith/e-commerce-price-comparison-app">Neo-Zenith/e-commerce-price-comparison-app</a>: A web app that allows online shoppers to compare product prices from different platforms with just a single search.
 
-<!--START_SECTION:waka-->
+#### Artificial Intelligence 🤖
+* <a href="https://github.com/Neo-Zenith/automated-student-engagement-system">Neo-Zenith/automated-student-engagement-system</a>: aSES: Utilised OpenCV and a pre-trained eye-detection model to dynamically detect the engagement level of students based on eye aspect ratio (EAR).
+* <a href="https://github.com/Neo-Zenith/text-message-sentiment-analyzer">Neo-Zenith/text-message-sentiment-analyzer</a>: Analyzes the sentiment of text messages using NLP models (LR, Naive Bayes, SVM).
 
-```txt
-From: 15 September 2023 - To: 22 September 2023
+#### Others ✨
+* <a href="https://github.com/Neo-Zenith/portfolio-site-v2">Neo-Zenith/portfolio-site-v2</a>: My personal website built with React and Material-UI.
+* <a href="https://github.com/Neo-Zenith/baggage-status-app">Neo-Zenith/baggage-status-app</a> Powered by Arduino, ReadyBex is an IoT web app that provides a real-time update service for passengers to monitor their baggage status.
 
-JavaScript   9 hrs 2 mins    >>>>>>>>>>>>>>>>>>>>>>>--   92.48 %
-CSS          36 mins         >>-----------------------   06.15 %
-HTML         7 mins          -------------------------   01.26 %
-Python       0 secs          -------------------------   00.09 %
-Other        0 secs          -------------------------   00.02 %
-```
+## Technologies
 
-<!--END_SECTION:waka-->
-
-
-## <img width="20px" src="https://cdn-icons-png.flaticon.com/512/107/107794.png" />  Languages
-  
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  </p>
-
-## <img width="20px" src="https://cdn-icons-png.flaticon.com/512/1505/1505516.png" />  Tools
-  
-  <p>
-    <img src="https://img.shields.io/badge/figma-eb4c1c?style=for-the-badge&logo=figma&logoColor=white" />
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/Jupyter-f37821?style=for-the-badge&logo=jupyter&logoColor=white" />
-    <img src="https://img.shields.io/badge/Postman-FC8019?style=for-the-badge&logo=Postman&logoColor=white" />
-    <img src="https://img.shields.io/badge/swagger-83e82d?style=for-the-badge&logo=swagger&logoColor=black" />
-  </p>
-
-## <img width="20px" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/robotics-32-604550.png?f=avif&w=256" />  AI & ML
-  
-  <p>
-    <img src="https://img.shields.io/badge/Pandas-0c0454?style=for-the-badge&logo=pandas&logoColor=white" />
-    <img src="https://img.shields.io/badge/Scikit%20learn-f89a36?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-    <img src="https://img.shields.io/badge/OpenCV-01ff01?style=for-the-badge&logo=opencv&logoColor=white" />
-  </p>
-  
-## <img width="20px" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/devops-5387191-4498732.png?f=avif&w=256" />  DevOps
-  
-  <p>
-    <img src="https://img.shields.io/badge/github%20actions-1f2428?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-    <img src="https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=Docker&logoColor=white" />
-  </p>
-
-## <img width="20px" src="https://i.pinimg.com/originals/11/f2/fd/11f2fd963a2028fa67ce38ffe0e92bc5.png" />  Frontend Technologies
-  
-  <p>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white" />
-    <img src="https://img.shields.io/badge/material%20ui-0084ff?style=for-the-badge&logo=mui&logoColor=white" />
-  </p>
-
-## <img width="20px" src="https://i.pinimg.com/originals/11/f2/fd/11f2fd963a2028fa67ce38ffe0e92bc5.png" />  Backend Technologies
-  <p>
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express" />
-    <img src="https://img.shields.io/badge/Nestjs-e53059?style=for-the-badge&logo=Nestjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  </p>
+![Python](http://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![C](http://img.shields.io/badge/-C-3776AB?style=flat-square&logo=c&logoColor=ffffff)
+![C++](http://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%23007ACC?style=flat-square&logo=react&logoColor=white)
+![Material-UI](https://img.shields.io/badge/MaterialUI-%23007ACC?style=flat-square&logo=mui&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Microsoft Azure Cloud](https://img.shields.io/badge/Azure-1a73e8?style=flat-square&logo=microsoftazure&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-366bcf?style=flat-square&logo=docker&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Nodejs-43853d?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Expressjs-43853d.svg?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-047728?style=flat-square&logo=django)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
+![Prettier](https://img.shields.io/badge/-Prettier-E7A93E?style=flat-square&logo=prettier&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F06032.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+![Styled Componenets](https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white) 
+![NestJS](https://img.shields.io/badge/Nestjs-e4274f?style=flat-square&logo=nestjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-311C87.svg?style=flat-square&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/Sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL-%2307405e.svg?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
