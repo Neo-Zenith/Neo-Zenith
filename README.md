@@ -59,12 +59,10 @@ I am `Lee Juin`, and I am currently a penultimate year undergraduate at NTU Sing
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 September 2023 - To: 24 September 2023
+From: 18 September 2023 - To: 25 September 2023
 
-JavaScript   9 hrs 2 mins    >>>>>>>>>>>>>>>>>>>>>>>--   92.58 %
-CSS          36 mins         >>-----------------------   06.16 %
-HTML         7 mins          -------------------------   01.26 %
-Other        0 secs          -------------------------   00.01 %
+JavaScript   8 hrs 18 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   99.67 %
+CSS          1 min           -------------------------   00.33 %
 ```
 
 <!--END_SECTION:waka-->
