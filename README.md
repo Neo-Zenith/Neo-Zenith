@@ -36,6 +36,7 @@ I am `Lee Juin`, and I am currently a penultimate year undergraduate at NTU Sing
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Microsoft Azure Cloud](https://img.shields.io/badge/Azure-1a73e8?style=flat-square&logo=microsoftazure&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-366bcf?style=flat-square&logo=docker&logoColor=white) 
+![Supabase](https://img.shields.io/badge/Supabase-%1c4a39?style=flat-square&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Nodejs-43853d?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Expressjs-43853d.svg?style=flat-square&logo=express&logoColor=white)
