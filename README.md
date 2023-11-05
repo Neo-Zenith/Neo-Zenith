@@ -14,7 +14,7 @@ I am `Lee Juin`, and I am currently a penultimate year undergraduate at NTU Sing
 
 ## Projects
 #### Full-stack 👨‍💻
-* <a href="https://github.com/Neo-Zenith/inventory-management-system">Neo-Zenith/inventory-management-system</a>: A full-stack app that streamlines the process of accessing, viewing and booking NTU Heritage Club's inventory items and available event venues.
+* <a href="https://github.com/Neo-Zenith/hc-booking-system">Neo-Zenith/hc-booking-system</a>: A full-stack app that streamlines the process of accessing, viewing and booking NTU Heritage Club's inventory items and available event venues.
 * <a href="https://github.com/Neo-Zenith/e-commerce-price-comparison-app">Neo-Zenith/e-commerce-price-comparison-app</a>: A web app that allows online shoppers to compare product prices from different platforms with just a single search.
 
 #### Artificial Intelligence 🤖
