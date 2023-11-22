@@ -2,28 +2,28 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&vCenter=true&width=435&height=35&lines=Hi+there!+Welcome+to+my+GitHub+profile.;I+am+a+full-stack+software+engineer.;Let's+get+connected!)](https://git.io/typing-svg)
 
 I am `Lee Juin`, and I am currently a penultimate year undergraduate at NTU Singapore.
-* 📖 Majoring in Computer Science, specializing in Artificial Intelligence.
+* 📖 Majoring in Computer Science (Minor in Economics)
 * 📜 First Class Honours + Dean's List.
 * 💼 2x internship experiences as a full-stack software engineer.
 * 🌐 Full-stack web: MERN, Django, Flask
 * 🔥 Interested in developing user-centric Software as a Service (SaaS) products and solutions.
 
 ## Work Experience 
-* May 2022 - Aug 2022: Backend Software Engineer Intern @ <a href="https://www.ntu.edu.sg/temasek-labs">Temasek Laboratories@NTU</a>
-* Aug 2022 - Dec 2022: Frontend Software Engineer Intern @ <a href="https://www.ntu.edu.sg/temasek-labs">Temasek Laboratories@NTU</a>
+* May 2022 - Sep 2022: Backend Software Engineer Intern @ <a href="https://www.ntu.edu.sg/temasek-labs">Temasek Laboratories@NTU</a>
+* Sep 2022 - Dec 2022: Frontend Software Engineer Intern @ <a href="https://www.ntu.edu.sg/temasek-labs">Temasek Laboratories@NTU</a>
 
 ## Projects
 #### Full-stack 👨‍💻
 * <a href="https://github.com/Neo-Zenith/hc-booking-system">Neo-Zenith/hc-booking-system</a>: A full-stack app that streamlines the process of accessing, viewing and booking NTU Heritage Club's inventory items and available event venues.
-* <a href="https://github.com/Neo-Zenith/e-commerce-price-comparison-app">Neo-Zenith/e-commerce-price-comparison-app</a>: A web app that allows online shoppers to compare product prices from different platforms with just a single search.
+* <a href="https://github.com/Neo-Zenith/sc2006-findr">Neo-Zenith/sc2006-findr</a>: A web app that allows online shoppers to compare product prices from different platforms with just a single search.
 
 #### Artificial Intelligence 🤖
-* <a href="https://github.com/Neo-Zenith/automated-student-engagement-system">Neo-Zenith/automated-student-engagement-system</a>: aSES: Utilised OpenCV and a pre-trained eye-detection model to dynamically detect the engagement level of students based on eye aspect ratio (EAR).
+* <a href="https://github.com/Neo-Zenith/ases-automated-student-engagement-system">Neo-Zenith/ases-automated-student-engagement-system</a>: aSES: Utilised OpenCV and a pre-trained eye-detection model to dynamically detect the engagement level of students based on eye aspect ratio (EAR).
 * <a href="https://github.com/Neo-Zenith/text-message-sentiment-analyzer">Neo-Zenith/text-message-sentiment-analyzer</a>: Analyzes the sentiment of text messages using NLP models (LR, Naive Bayes, SVM).
 
 #### Others ✨
-* <a href="https://github.com/Neo-Zenith/portfolio-site-v2">Neo-Zenith/portfolio-site-v2</a>: My personal website built with React and Material-UI.
-* <a href="https://github.com/Neo-Zenith/baggage-status-app">Neo-Zenith/baggage-status-app</a> Powered by Arduino, ReadyBex is an IoT web app that provides a real-time update service for passengers to monitor their baggage status.
+* <a href="https://github.com/Neo-Zenith/personal-website">Neo-Zenith/personal-website</a>: My personal website built with React.js.
+* <a href="https://github.com/Neo-Zenith/readybex-baggage-status-app">Neo-Zenith/readybex-baggage-status-app</a> Powered by Arduino, ReadyBex is an IoT web app that provides a real-time update service for passengers to monitor their baggage status.
 
 ## Technologies
 ![Python](http://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
