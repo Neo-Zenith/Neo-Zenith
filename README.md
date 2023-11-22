@@ -9,8 +9,8 @@ I am `Lee Juin`, and I am currently a penultimate year undergraduate at NTU Sing
 * 🔥 Interested in developing user-centric Software as a Service (SaaS) products and solutions.
 
 ## Work Experience 
-* May 2022 - Sep 2022: Backend Software Engineer Intern @ <a href="https://www.ntu.edu.sg/temasek-labs">Temasek Laboratories@NTU</a>
-* Sep 2022 - Dec 2022: Frontend Software Engineer Intern @ <a href="https://www.ntu.edu.sg/temasek-labs">Temasek Laboratories@NTU</a>
+* May 2023 - Aug 2023: Backend Software Engineer Intern @ <a href="https://www.ntu.edu.sg/temasek-labs">Temasek Laboratories@NTU</a>
+* Sep 2023 - Dec 2023: Frontend Software Engineer Intern @ <a href="https://www.ntu.edu.sg/temasek-labs">Temasek Laboratories@NTU</a>
 
 ## Projects
 #### Full-stack 👨‍💻
