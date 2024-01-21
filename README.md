@@ -20,6 +20,7 @@ I am `Lee Juin`, and I am currently a penultimate year undergraduate at NTU Sing
 #### Artificial Intelligence 🤖
 * <a href="https://github.com/Neo-Zenith/ases-automated-student-engagement-system">Neo-Zenith/ases-automated-student-engagement-system</a>: aSES: Utilised OpenCV and a pre-trained eye-detection model to dynamically detect the engagement level of students based on eye aspect ratio (EAR).
 * <a href="https://github.com/Neo-Zenith/text-message-sentiment-analyzer">Neo-Zenith/text-message-sentiment-analyzer</a>: Analyzes the sentiment of text messages using NLP models (LR, Naive Bayes, SVM).
+* <a href="https://github.com/Neo-Zenith/quickmafs">Neo-Zenith/quick-mafs</a>: Translates plain English expression and high-level code to embedded system code.
 
 #### Others ✨
 * <a href="https://github.com/Neo-Zenith/personal-website">Neo-Zenith/personal-website</a>: My personal website built with React.js.
