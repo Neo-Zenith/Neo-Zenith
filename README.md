@@ -11,7 +11,7 @@ I am `Lee Juin`, and I am currently a penultimate year undergraduate at NTU Sing
 ## Work Experience 
 * May 2023 - Aug 2023: Backend Software Engineer Intern @ <a href="https://www.ntu.edu.sg/temasek-labs">Temasek Laboratories@NTU</a>
 * Sep 2023 - Dec 2023: Frontend Software Engineer Intern @ <a href="https://www.ntu.edu.sg/temasek-labs">Temasek Laboratories@NTU</a>
-* Jan 2024 - current: Software Engineer Intern @ <a href="https://proxtera.com/">Proxtera</a>
+* Jan 2024 - <i>Present</i>: Software Engineer Intern @ <a href="https://proxtera.com/">Proxtera</a>
 
 ## Projects
 #### Full-stack 👨‍💻
@@ -19,9 +19,9 @@ I am `Lee Juin`, and I am currently a penultimate year undergraduate at NTU Sing
 * <a href="https://github.com/Neo-Zenith/sc2006-findr">Neo-Zenith/sc2006-findr</a>: A web app that allows online shoppers to compare product prices from different platforms with just a single search.
 
 #### Artificial Intelligence 🤖
+* <a href="https://github.com/Neo-Zenith/quickmafs">Neo-Zenith/quick-mafs</a>: Translates plain English expression and high-level code to embedded system code.
 * <a href="https://github.com/Neo-Zenith/ases-automated-student-engagement-system">Neo-Zenith/ases-automated-student-engagement-system</a>: aSES: Utilised OpenCV and a pre-trained eye-detection model to dynamically detect the engagement level of students based on eye aspect ratio (EAR).
 * <a href="https://github.com/Neo-Zenith/text-message-sentiment-analyzer">Neo-Zenith/text-message-sentiment-analyzer</a>: Analyzes the sentiment of text messages using NLP models (LR, Naive Bayes, SVM).
-* <a href="https://github.com/Neo-Zenith/quickmafs">Neo-Zenith/quick-mafs</a>: Translates plain English expression and high-level code to embedded system code.
 
 #### Others ✨
 * <a href="https://github.com/Neo-Zenith/personal-website">Neo-Zenith/personal-website</a>: My personal website built with React.js.
