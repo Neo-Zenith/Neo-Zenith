@@ -5,12 +5,13 @@ I am `Lee Juin`, and I am currently a penultimate year undergraduate at NTU Sing
 * 📖 Majoring in Computer Science
 * 📜 First Class Honours (Highest Distinction) + Dean's List.
 * 💼 2x internship experiences as a full-stack software engineer.
-* 🌐 Full-stack web: MERN, Python (Django, Flask)
+* 🌐 Full-stack web development: MERN, Python (Django, Flask)
 * 🔥 Interest: Full-stack software development
 
 ## Work Experience 
 * May 2023 - Aug 2023: Backend Software Engineer Intern @ <a href="https://www.ntu.edu.sg/temasek-labs">Temasek Laboratories@NTU</a>
 * Sep 2023 - Dec 2023: Frontend Software Engineer Intern @ <a href="https://www.ntu.edu.sg/temasek-labs">Temasek Laboratories@NTU</a>
+* Jan 2024 - current: Software Engineer Intern @ <a href="https://proxtera.com/">Proxtera</a>
 
 ## Projects
 #### Full-stack 👨‍💻
