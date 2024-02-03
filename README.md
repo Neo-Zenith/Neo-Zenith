@@ -24,6 +24,13 @@
 * Automated deployment to Azure Cloud VM using GitHub Actions workflow pipeline on code push.
 * Skills: React, Express.js, GitHub Actions, Azure Cloud VM
 
+#### [aSES: Automated Student Engagement System](https://github.com/Neo-Zenith/aSES)
+* Co-developed a system that dynamically detects a student's engagement level based on eye aspect ratio (EAR).
+* Developed a dashboard that visualize a timeseries of total students engagement level using Chart.js.
+* Built the eye detection script using a pre-trained model using OpenCV.
+* Implemented a CRUD server using Django for interaction between eye detection script, dashboard and the PostgreSQL database.
+* Skills: Chart.js, OpenCV, PostgreSQL, Django
+
 #### [NTU Heritage Club Booking System](https://github.com/Neo-Zenith/hc-booking-system)
 * Developed a web application for NTU Heritage Club using React and MaterialUI, enhancing accessibility and streamlining inventory and venue bookings.
 * Implemented serverless architecture via Supabase edge functions and utilized PostgreSQL for persistent data storage.
