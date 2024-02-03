@@ -16,19 +16,25 @@
 * Sep 2023 - Dec 2023: Frontend Software Engineer Intern @ <a href="https://www.ntu.edu.sg/temasek-labs">Temasek Laboratories@NTU</a>
 * Jan 2024 - <i>Present</i>: Software Engineer Intern @ <a href="https://proxtera.com/">Proxtera</a>
 
-## Projects
-#### Full-stack 👨‍💻
-* <a href="https://github.com/Neo-Zenith/hc-booking-system">Neo-Zenith/hc-booking-system</a>: A full-stack app that streamlines the process of accessing, viewing and booking NTU Heritage Club's inventory items and available event venues.
-* <a href="https://github.com/Neo-Zenith/sc2006-findr">Neo-Zenith/sc2006-findr</a>: A web app that allows online shoppers to compare product prices from different platforms with just a single search.
+## Featured Projects
+#### [QuickMafs: LLM-integrated Convex Optimization Code Generator](https://github.com/Neo-Zenith/quickmafs)
+* Co-developed a web app that translates plain English expression and high-level code to embedded system code using React and Express.js.
+* Utilized Microosft TrOCR for handwriting recognition and expression parsing.
+* Utilized MaterialUI for frontend design and styling.
+* Automated deployment to Azure Cloud VM using GitHub Actions workflow pipeline on code push.
+* Skills: React, Express.js, GitHub Actions, Azure Cloud VM
 
-#### Artificial Intelligence 🤖
-* <a href="https://github.com/Neo-Zenith/quickmafs">Neo-Zenith/quick-mafs</a>: Translates plain English expression and high-level code to embedded system code.
-* <a href="https://github.com/Neo-Zenith/ases-automated-student-engagement-system">Neo-Zenith/ases-automated-student-engagement-system</a>: aSES: Utilised OpenCV and a pre-trained eye-detection model to dynamically detect the engagement level of students based on eye aspect ratio (EAR).
-* <a href="https://github.com/Neo-Zenith/text-message-sentiment-analyzer">Neo-Zenith/text-message-sentiment-analyzer</a>: Analyzes the sentiment of text messages using NLP models (LR, Naive Bayes, SVM).
+#### [NTU Heritage Club Booking System](https://github.com/Neo-Zenith/hc-booking-system)
+* Developed a web application for NTU Heritage Club using React and MaterialUI, enhancing accessibility and streamlining inventory and venue bookings.
+* Implemented serverless architecture via Supabase edge functions and utilized PostgreSQL for persistent data storage.
+* Skills: Supabase, React
 
-#### Others ✨
-* <a href="https://github.com/Neo-Zenith/personal-website">Neo-Zenith/personal-website</a>: My personal website built with React.js.
-* <a href="https://github.com/Neo-Zenith/readybex-baggage-status-app">Neo-Zenith/readybex-baggage-status-app</a> Powered by Arduino, ReadyBex is an IoT web app that provides a real-time update service for passengers to monitor their baggage status.
+#### [FindR: E-Commerce Price Comparison Web App](https://github.com/Neo-Zenith/sc2006-findr)
+* Co-developed a full-stack web application using Django, React and PostgreSQL where users can search, filter, and compare prices of items sold on e-commerce platforms.
+* Utilized Selenium for web scraping across diverse e-commerce platforms, extracting product data to create essential mock datasets for demonstration purposes.
+* Deployed the web app using Azure App Service, ensuring scalability and optimal performance.
+* Documented the backend API specifications using Postman to provide clear and comprehensive documentation for developers, facilitating easy integration and future development efforts.
+* Skills: Django, React, PostgreSQL, Azure App Service, Postman API
 
 ## Technologies
 ### Programming Languages
