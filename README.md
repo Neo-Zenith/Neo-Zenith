@@ -32,8 +32,8 @@
 #### [FindR: E-Commerce Price Comparison Web App](https://github.com/Neo-Zenith/sc2006-findr)
 * Co-developed a full-stack web application using Django, React and PostgreSQL where users can search, filter, and compare prices of items sold on e-commerce platforms.
 * Utilized Selenium for web scraping across diverse e-commerce platforms, extracting product data to create essential mock datasets for demonstration purposes.
-* Deployed the web app using Azure App Service, ensuring scalability and optimal performance.
-* Documented the backend API specifications using Postman to provide clear and comprehensive documentation for developers, facilitating easy integration and future development efforts.
+* Deployed the web app using Azure App Service.
+* Documented the backend API specifications using Postman to provide clear and comprehensive documentation for developers.
 * Skills: Django, React, PostgreSQL, Azure App Service, Postman API
 
 ## Technologies
