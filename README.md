@@ -1,12 +1,15 @@
 ## About ⭐
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&vCenter=true&width=435&height=35&lines=Hi+there!+Welcome+to+my+GitHub+profile.;I+am+a+full-stack+software+engineer.;Let's+get+connected!)](https://git.io/typing-svg)
 
-I am `Lee Juin`, and I am currently a penultimate year undergraduate at NTU Singapore.
-* 📖 Majoring in Computer Science
+* 👋 Hi! I am Lee Juin.
+* 📖 Majoring in CS with a Minor in Business
 * 📜 First Class Honours (Highest Distinction) + Dean's List.
 * 💼 2x internship experiences as a full-stack software engineer.
-* 🌐 Full-stack web development: MERN, Python (Django, Flask)
-* 🔥 Interest: Full-stack software development
+* 🔥 Full-stack development experience in Node.js (MERN stack).
+* 🔗 [Website](https://leejuin.com), [LinkedIn](https://linkedin.com/in/juin-lee)
+
+## Education
+* Aug 2021 - Dec 2024: Bachelor of Engineering in Computer Science (Minor in Business) from [Nanyang Technological University, NTU Singapore](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-computer-science)
 
 ## Work Experience 
 * May 2023 - Aug 2023: Backend Software Engineer Intern @ <a href="https://www.ntu.edu.sg/temasek-labs">Temasek Laboratories@NTU</a>
