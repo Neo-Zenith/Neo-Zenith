@@ -24,7 +24,7 @@
 * Automated deployment to Azure Cloud VM using GitHub Actions workflow pipeline on code push.
 * Skills: React, Express.js, GitHub Actions, Azure Cloud VM
 
-#### [aSES: Automated Student Engagement System](https://github.com/Neo-Zenith/aSES)
+#### [aSES: Automated Student Engagement System](https://github.com/Neo-Zenith/ases-automated-student-engagement-system)
 * Co-developed a system that dynamically detects a student's engagement level based on eye aspect ratio (EAR).
 * Developed a dashboard that visualize a timeseries of total students engagement level using Chart.js.
 * Built the eye detection script using a pre-trained model using OpenCV.
