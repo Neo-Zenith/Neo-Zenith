@@ -100,13 +100,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 January 2024 - To: 06 February 2024
+From: 31 January 2024 - To: 07 February 2024
 
-Python       10 hrs 12 mins  >>>>>>>>>>>>>>-----------   54.58 %
-TypeScript   5 hrs 43 mins   >>>>>>>>-----------------   30.64 %
-JSON         1 hr 8 mins     >>-----------------------   06.11 %
-Java         28 mins         >------------------------   02.58 %
-Markdown     27 mins         >------------------------   02.41 %
+Python       10 hrs 12 mins  >>>>>>>>>>>>-------------   48.40 %
+TypeScript   5 hrs 43 mins   >>>>>>>------------------   27.17 %
+Java         2 hrs 52 mins   >>>----------------------   13.61 %
+JSON         1 hr 8 mins     >------------------------   05.42 %
+Markdown     27 mins         >------------------------   02.14 %
 ```
 
 <!--END_SECTION:waka-->
