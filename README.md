@@ -100,13 +100,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 February 2024 - To: 13 February 2024
+From: 07 February 2024 - To: 14 February 2024
 
-Python         22 hrs 39 mins  >>>>>>>>>>>>>>>>>>>------   75.26 %
-Java           5 hrs 25 mins   >>>>---------------------   17.99 %
-Docker         58 mins         >------------------------   03.23 %
-JavaScript     15 mins         -------------------------   00.88 %
-Text           14 mins         -------------------------   00.83 %
+Python         27 hrs 14 mins  >>>>>>>>>>>>>>>>>>>>-----   78.93 %
+Java           5 hrs 14 mins   >>>>---------------------   15.18 %
+Docker         58 mins         >------------------------   02.82 %
+JavaScript     15 mins         -------------------------   00.77 %
+Text           14 mins         -------------------------   00.72 %
 ```
 
 <!--END_SECTION:waka-->
