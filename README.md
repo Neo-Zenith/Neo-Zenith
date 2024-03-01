@@ -9,7 +9,7 @@
 * 🔗 [Website](https://leejuin.com), [LinkedIn](https://linkedin.com/in/juin-lee)
 
 ## Education
-* Aug 2021 - Dec 2024: Bachelor of Engineering in Computer Science (Minor in Business) from [Nanyang Technological University, NTU Singapore](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-computer-science)
+  * Aug 2021 - Dec 2024: Bachelor of Computing in Computer Science (Minor in Business) from [Nanyang Technological University, NTU Singapore](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-computer-science)
 
 ## Work Experience 
 * May 2023 - Aug 2023: Backend Software Engineer Intern @ <a href="https://www.ntu.edu.sg/temasek-labs">Temasek Laboratories@NTU</a>
