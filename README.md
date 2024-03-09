@@ -100,7 +100,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 March 2024 - To: 08 March 2024
+From: 02 March 2024 - To: 09 March 2024
 
 JavaScript   10 hrs 37 mins  >>>>>>>>>>>>-------------   48.63 %
 Java         8 hrs 16 mins   >>>>>>>>>----------------   37.92 %
