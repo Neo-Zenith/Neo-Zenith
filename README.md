@@ -100,13 +100,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 March 2024 - To: 09 March 2024
+From: 03 March 2024 - To: 10 March 2024
 
-JavaScript   10 hrs 37 mins  >>>>>>>>>>>>-------------   48.63 %
-Java         8 hrs 16 mins   >>>>>>>>>----------------   37.92 %
-TypeScript   1 hr 10 mins    >------------------------   05.38 %
-CSS          1 hr 5 mins     >------------------------   04.97 %
-Markdown     13 mins         -------------------------   01.03 %
+JavaScript   9 hrs 30 mins   >>>>>>>>>>>--------------   45.55 %
+Java         8 hrs 16 mins   >>>>>>>>>>---------------   39.64 %
+TypeScript   1 hr 10 mins    >------------------------   05.63 %
+CSS          1 hr 5 mins     >------------------------   05.20 %
+Markdown     13 mins         -------------------------   01.08 %
 ```
 
 <!--END_SECTION:waka-->
