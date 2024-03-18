@@ -100,13 +100,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 March 2024 - To: 17 March 2024
+From: 11 March 2024 - To: 18 March 2024
 
-JavaScript   4 hrs 57 mins   >>>>>>>>-----------------   32.04 %
-Java         3 hrs 32 mins   >>>>>>-------------------   22.85 %
-TypeScript   2 hrs 23 mins   >>>>---------------------   15.48 %
-YAML         1 hr 32 mins    >>-----------------------   09.96 %
-Python       1 hr 5 mins     >>-----------------------   07.11 %
+Java         7 hrs 43 mins   >>>>>>>>>>---------------   40.85 %
+JavaScript   4 hrs 56 mins   >>>>>>>------------------   26.15 %
+TypeScript   1 hr 50 mins    >>-----------------------   09.70 %
+Python       1 hr 48 mins    >>-----------------------   09.60 %
+YAML         40 mins         >------------------------   03.61 %
 ```
 
 <!--END_SECTION:waka-->
