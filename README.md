@@ -100,13 +100,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 March 2024 - To: 29 March 2024
+From: 23 March 2024 - To: 30 March 2024
 
-JavaScript   8 hrs 55 mins   >>>>>>>>>>>>>>>>>>-------   73.15 %
-CSS          1 hr 32 mins    >>>----------------------   12.63 %
-Python       1 hr 21 mins    >>>----------------------   11.15 %
-JSON         16 mins         >------------------------   02.26 %
-Markdown     5 mins          -------------------------   00.71 %
+JavaScript                 14 hrs 48 mins  >>>>>>>>>>>>>>>>>>-------   70.57 %
+Java                       1 hr 39 mins    >>-----------------------   07.91 %
+CSS                        1 hr 36 mins    >>-----------------------   07.65 %
+Python                     1 hr 21 mins    >>-----------------------   06.49 %
+Docker                     43 mins         >------------------------   03.42 %
 ```
 
 <!--END_SECTION:waka-->
