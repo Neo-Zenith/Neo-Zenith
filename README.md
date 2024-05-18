@@ -100,7 +100,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 May 2024 - To: 17 May 2024
+From: 11 May 2024 - To: 18 May 2024
 
 TypeScript        10 hrs 14 mins  >>>>>>>>>>>>>>>>---------   62.62 %
 Java              4 hrs 13 mins   >>>>>>-------------------   25.89 %
