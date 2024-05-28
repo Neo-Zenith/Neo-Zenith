@@ -100,13 +100,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 May 2024 - To: 27 May 2024
+From: 21 May 2024 - To: 28 May 2024
 
-Swift         10 hrs 17 mins  >>>>>>>>>>>>>>-----------   54.17 %
-Other         3 hrs 41 mins   >>>>>--------------------   19.42 %
-CSS           2 hrs 17 mins   >>>----------------------   12.08 %
-JavaScript    1 hr 58 mins    >>>----------------------   10.36 %
-Markdown      14 mins         -------------------------   01.24 %
+Swift         3 hrs 57 mins   >>>>>>>------------------   29.55 %
+JavaScript    3 hrs 46 mins   >>>>>>>------------------   28.07 %
+Other         2 hrs 35 mins   >>>>>--------------------   19.32 %
+CSS           2 hrs 17 mins   >>>>---------------------   17.10 %
+Markdown      14 mins         -------------------------   01.75 %
 ```
 
 <!--END_SECTION:waka-->
