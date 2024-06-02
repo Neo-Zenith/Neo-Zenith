@@ -100,7 +100,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 May 2024 - To: 01 June 2024
+From: 26 May 2024 - To: 02 June 2024
 
 JavaScript        3 hrs 58 mins   >>>>>>>>>>>>>------------   51.77 %
 Other             1 hr 3 mins     >>>----------------------   13.75 %
