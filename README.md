@@ -100,7 +100,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 May 2024 - To: 07 June 2024
+From: 01 June 2024 - To: 08 June 2024
 
 Python       2 hrs 16 mins   >>>>>>>>>>---------------   38.67 %
 JavaScript   1 hr 42 mins    >>>>>>>------------------   28.97 %
