@@ -32,11 +32,6 @@
 * Implemented a CRUD server using Django for interaction between eye detection script, dashboard and the PostgreSQL database.
 * Skills: Chart.js, OpenCV, PostgreSQL, Django
 
-#### [NTU Heritage Club Booking System](https://github.com/Neo-Zenith/hc-booking-system)
-* Developed a web application for NTU Heritage Club using React and MaterialUI, enhancing accessibility and streamlining inventory and venue bookings.
-* Implemented serverless architecture via Supabase edge functions and utilized PostgreSQL for persistent data storage.
-* Skills: Supabase, React
-
 #### [FindR: E-Commerce Price Comparison Web App](https://github.com/Neo-Zenith/sc2006-findr)
 * Co-developed a full-stack web application using Django, React and PostgreSQL where users can search, filter, and compare prices of items sold on e-commerce platforms.
 * Utilized Selenium for web scraping across diverse e-commerce platforms, extracting product data to create essential mock datasets for demonstration purposes.
