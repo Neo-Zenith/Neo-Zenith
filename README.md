@@ -4,8 +4,8 @@
 * 👋 Hi! I am Lee Juin.
 * 📖 Majoring in CS with a Minor in Business
 * 📜 First Class Honours (Highest Distinction) + Dean's List.
-* 💼 2x internship experiences as a full-stack software engineer.
-* 🔥 Full-stack development experience in Node.js (MERN stack).
+* 🔥 Full-stack development in NodeJS, Python Django | Microservice development with Java Spring Boot
+* 💡 Currently learning VR development with Swift in VisionOS
 * 🔗 [Website](https://leejuin.com), [LinkedIn](https://linkedin.com/in/juin-lee)
 
 ## Education
@@ -14,7 +14,8 @@
 ## Work Experience 
 * May 2023 - Aug 2023: Backend Software Engineer Intern @ <a href="https://www.ntu.edu.sg/temasek-labs">Temasek Laboratories@NTU</a>
 * Sep 2023 - Dec 2023: Frontend Software Engineer Intern @ <a href="https://www.ntu.edu.sg/temasek-labs">Temasek Laboratories@NTU</a>
-* Jan 2024 - <i>Present</i>: Software Engineer Intern @ <a href="https://proxtera.com/">Proxtera</a>
+* Jan 2024 - Apr 2024: Software Engineer Intern @ <a href="https://proxtera.com/">Proxtera</a>
+* May 2024 - <i>Present</i>: Software Engineer Intern @ <a href="https://ocbc.com">OCBC Bank</a>
 
 ## Featured Projects
 #### [QuickMafs: LLM-integrated Convex Optimization Code Generator](https://github.com/Neo-Zenith/quickmafs)
