@@ -96,13 +96,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 July 2024 - To: 15 July 2024
+From: 09 July 2024 - To: 16 July 2024
 
-TypeScript   15 hrs 1 min    >>>>>>>>>>>>>>>>>>>>>>>--   90.43 %
-JavaScript   56 mins         >------------------------   05.62 %
-CSS          24 mins         >------------------------   02.47 %
-Git Config   5 mins          -------------------------   00.51 %
-Other        4 mins          -------------------------   00.49 %
+TypeScript   17 hrs 25 mins  >>>>>>>>>>>>>>>>>>>>>>>--   90.64 %
+JavaScript   56 mins         >------------------------   04.85 %
+CSS          24 mins         >------------------------   02.13 %
+SQL          9 mins          -------------------------   00.80 %
+Git Config   5 mins          -------------------------   00.44 %
 ```
 
 <!--END_SECTION:waka-->
