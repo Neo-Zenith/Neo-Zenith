@@ -2,22 +2,27 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&vCenter=true&width=435&height=35&lines=Hi+there!+Welcome+to+my+GitHub+profile.;I+am+a+full-stack+software+engineer.;Let's+get+connected!)](https://git.io/typing-svg)
 
 * 👋 Hi! I am Lee Juin.
-* 📖 Majoring in CS with a Minor in Business
+* 📖 Majoring in Computer Science
 * 📜 First Class Honours (Highest Distinction) + Dean's List.
-* 🔥 Full-stack development in NodeJS, Python Django | Microservice development with Java Spring Boot
-* 💡 Currently learning VR development with Swift in VisionOS
+* 🔥 Full-stack development in NodeJS | Microservice development with Java Spring Boot
+* 💡 Currently learning CI/CD with Jenkins & Kubernetes
 * 🔗 [Website](https://leejuin.com), [LinkedIn](https://linkedin.com/in/juin-lee)
 
 ## Education
-  * Aug 2021 - Dec 2024: Bachelor of Computing in Computer Science (Minor in Business) from [Nanyang Technological University, NTU Singapore](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-computer-science)
+  * Aug 2021 - Dec 2024: Bachelor of Computing (Honours) in Computer Science from [Nanyang Technological University, NTU Singapore](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-computer-science)
 
 ## Work Experience 
-* May 2023 - Aug 2023: Backend Software Engineer Intern @ <a href="https://www.ntu.edu.sg/temasek-labs">Temasek Laboratories@NTU</a>
-* Sep 2023 - Dec 2023: Frontend Software Engineer Intern @ <a href="https://www.ntu.edu.sg/temasek-labs">Temasek Laboratories@NTU</a>
+* May 2023 - Dec 2023: Software Engineer Intern @ <a href="https://www.ntu.edu.sg/temasek-labs">Temasek Laboratories@NTU</a>
 * Jan 2024 - Apr 2024: Software Engineer Intern @ <a href="https://proxtera.com/">Proxtera</a>
 * May 2024 - <i>Present</i>: Software Engineer Intern @ <a href="https://ocbc.com">OCBC Bank</a>
 
 ## Featured Projects
+#### [JobWise: Application Tracker as-a-Service](https://github.com/Neo-Zenith/sc4052-application-tracker)
+* Co-developed a web app that tracks LinkedIn job applications and provides tailored resume analysis, feedback and scoring.
+* Integrated Google Gemini for prompt engineering to produce application-specific resume feedback.
+* Built backend with Java Spring Boot and PostgreSQL database, implemented server-side caching with Azure Cache for Redis.
+* Skills: React, Java Spring Boot, Redis, Azure Cloud VM
+
 #### [QuickMafs: LLM-integrated Convex Optimization Code Generator](https://github.com/Neo-Zenith/quickmafs)
 * Co-developed a web app that translates plain English expression and high-level code to embedded system code using React and Express.js.
 * Utilized Microosft TrOCR for handwriting recognition and expression parsing.
@@ -47,19 +52,23 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=ffffff)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-%23007ACC?style=flat-square&logo=react&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/MaterialUI-%23007ACC?style=flat-square&logo=mui&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 
 ### Backend
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Nodejs-43853d?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Expressjs-43853d.svg?style=flat-square&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-047728?style=flat-square&logo=django)
 ![NestJS](https://img.shields.io/badge/Nestjs-e4274f?style=flat-square&logo=nestjs&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=flat-square&logo=rabbitmq&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-311C87.svg?style=flat-square&logo=flask&logoColor=white)
 
 ### Databases
@@ -67,13 +76,19 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/Sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL-%2307405e.svg?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%23000f.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
 
-### Cloud Tools
+### DevOps
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-366bcf?style=flat-square&logo=docker&logoColor=white) 
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=Kibana&logoColor=white)
+
+### Cloud
 ![Supabase](https://img.shields.io/badge/Supabase-%1c4a39?style=flat-square&logo=supabase&logoColor=white)
 ![Microsoft Azure Cloud](https://img.shields.io/badge/Azure-1a73e8?style=flat-square&logo=microsoftazure&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-366bcf?style=flat-square&logo=docker&logoColor=white) 
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ### AI / ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white)
