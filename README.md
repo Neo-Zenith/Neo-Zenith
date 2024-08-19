@@ -111,13 +111,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 August 2024 - To: 18 August 2024
+From: 12 August 2024 - To: 19 August 2024
 
-Other             3 hrs 45 mins   >>>>>>>>>>>>-------------   49.97 %
-YAML              1 hr 22 mins    >>>>>--------------------   18.31 %
-XML               41 mins         >>-----------------------   09.30 %
-Java              27 mins         >>-----------------------   06.03 %
-JavaScript        25 mins         >------------------------   05.61 %
+Python       2 hrs 32 mins   >>>>>>>>-----------------   33.49 %
+Other        1 hr 44 mins    >>>>>>-------------------   22.97 %
+YAML         1 hr 12 mins    >>>>---------------------   15.82 %
+TypeScript   53 mins         >>>----------------------   11.64 %
+JavaScript   29 mins         >>-----------------------   06.40 %
 ```
 
 <!--END_SECTION:waka-->
