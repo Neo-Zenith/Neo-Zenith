@@ -111,13 +111,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 August 2024 - To: 27 August 2024
+From: 21 August 2024 - To: 28 August 2024
 
-Python       22 mins         >>>>>>>>>>>>>>>>>>>>>----   85.59 %
-Git Config   2 mins          >>-----------------------   08.99 %
-SSH Config   0 secs          >------------------------   03.13 %
-Docker       0 secs          -------------------------   01.55 %
-Text         0 secs          -------------------------   00.67 %
+TypeScript   45 mins         >>>>>>>>>>>>>------------   50.29 %
+Python       26 mins         >>>>>>>------------------   29.25 %
+Java         8 mins          >>-----------------------   09.68 %
+CSV          5 mins          >>-----------------------   06.41 %
+Git Config   2 mins          >------------------------   02.63 %
 ```
 
 <!--END_SECTION:waka-->
