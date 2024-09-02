@@ -111,13 +111,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 August 2024 - To: 01 September 2024
+From: 26 August 2024 - To: 02 September 2024
 
-TypeScript   45 mins         >>>>>>>>>>>--------------   43.10 %
-Python       39 mins         >>>>>>>>>----------------   37.92 %
-Java         8 mins          >>-----------------------   08.29 %
-CSV          5 mins          >------------------------   05.50 %
-Git Config   2 mins          >------------------------   02.25 %
+TypeScript   1 hr 16 mins    >>>>>>>>>>>>>>>----------   58.81 %
+Python       17 mins         >>>----------------------   13.63 %
+Java         8 mins          >>-----------------------   06.70 %
+Bash         8 mins          >>-----------------------   06.20 %
+CSV          5 mins          >------------------------   04.46 %
 ```
 
 <!--END_SECTION:waka-->
