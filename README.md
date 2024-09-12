@@ -111,13 +111,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 September 2024 - To: 11 September 2024
+From: 05 September 2024 - To: 12 September 2024
 
-TypeScript        5 hrs 35 mins   >>>>>>>>>>>>>>>>>--------   67.08 %
-Java              1 hr 42 mins    >>>>>--------------------   20.43 %
-JavaScript        29 mins         >------------------------   05.97 %
-Batchfile         7 mins          -------------------------   01.47 %
-Python            6 mins          -------------------------   01.37 %
+TypeScript        6 hrs 39 mins   >>>>>>>>>>>>>>>>>--------   69.33 %
+Java              1 hr 42 mins    >>>>---------------------   17.77 %
+JavaScript        29 mins         >------------------------   05.20 %
+Other             9 mins          -------------------------   01.65 %
+Batchfile         7 mins          -------------------------   01.28 %
 ```
 
 <!--END_SECTION:waka-->
