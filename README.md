@@ -111,13 +111,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2024 - To: 17 September 2024
+From: 11 September 2024 - To: 18 September 2024
 
-TypeScript   5 hrs 28 mins   >>>>>>>>>>>--------------   45.41 %
-Other        2 hrs 58 mins   >>>>>>-------------------   24.68 %
-YAML         2 hrs 41 mins   >>>>>>-------------------   22.36 %
-JavaScript   29 mins         >------------------------   04.14 %
-SSH Config   13 mins         -------------------------   01.85 %
+Other        2 hrs 58 mins   >>>>>>>>>----------------   36.28 %
+YAML         2 hrs 41 mins   >>>>>>>>-----------------   32.87 %
+TypeScript   1 hr 49 mins    >>>>>>-------------------   22.23 %
+Java         22 mins         >------------------------   04.64 %
+SSH Config   13 mins         >------------------------   02.71 %
 ```
 
 <!--END_SECTION:waka-->
