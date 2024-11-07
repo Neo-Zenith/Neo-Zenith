@@ -111,13 +111,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 October 2024 - To: 06 November 2024
+From: 31 October 2024 - To: 07 November 2024
 
-Python       31 hrs 14 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   99.28 %
-YAML         10 mins         -------------------------   00.58 %
-JSON         2 mins          -------------------------   00.12 %
-Other        0 secs          -------------------------   00.01 %
-Git Config   0 secs          -------------------------   00.01 %
+Python       27 hrs 19 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   94.28 %
+YAML         46 mins         >------------------------   02.68 %
+TypeScript   34 mins         -------------------------   01.97 %
+Bash         14 mins         -------------------------   00.81 %
+Other        2 mins          -------------------------   00.12 %
 ```
 
 <!--END_SECTION:waka-->
