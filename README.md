@@ -111,7 +111,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 November 2024 - To: 23 November 2024
+From: 17 November 2024 - To: 24 November 2024
 
 YAML     39 mins         >>>>>>>>>>>>>>>>>--------   67.16 %
 Bash     11 mins         >>>>>--------------------   20.13 %
