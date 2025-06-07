@@ -111,12 +111,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 May 2025 - To: 06 June 2025
+From: 31 May 2025 - To: 07 June 2025
 
-Java             14 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   99.95 %
-GitIgnore file   0 secs          -------------------------   00.04 %
-Properties       0 secs          -------------------------   00.01 %
-XML              0 secs          -------------------------   00.00 %
+Java              3 hrs 59 mins   >>>>>>>>>>>>>>>>>>>>-----   81.28 %
+Java Properties   27 mins         >>-----------------------   09.24 %
+Properties        17 mins         >------------------------   05.94 %
+XML               6 mins          >------------------------   02.37 %
+SQL               2 mins          -------------------------   00.71 %
 ```
 
 <!--END_SECTION:waka-->
