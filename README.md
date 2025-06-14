@@ -111,13 +111,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 June 2025 - To: 13 June 2025
+From: 07 June 2025 - To: 14 June 2025
 
-Java              6 hrs 13 mins   >>>>>>>>>>>>>>>>---------   65.89 %
-Python            1 hr 17 mins    >>>----------------------   13.67 %
-Markdown          49 mins         >>-----------------------   08.80 %
-Java Properties   27 mins         >------------------------   04.90 %
-Properties        21 mins         >------------------------   03.86 %
+Python            3 hrs 9 mins    >>>>>>>>>>>>-------------   47.56 %
+Java              2 hrs 28 mins   >>>>>>>>>----------------   37.23 %
+Markdown          49 mins         >>>----------------------   12.50 %
+Properties        4 mins          -------------------------   01.10 %
+SQL               3 mins          -------------------------   00.79 %
 ```
 
 <!--END_SECTION:waka-->
