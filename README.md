@@ -1,10 +1,9 @@
 ## About ⭐
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&vCenter=true&width=435&height=35&lines=Hi+there!+Welcome+to+my+GitHub+profile.;I+am+a+full-stack+software+engineer.;Let's+get+connected!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&vCenter=true&width=435&height=35&lines=Hi+there!+Welcome+to+my+GitHub.;I+am+a+full-stack+software+engineer.;Let's+connect!)](https://git.io/typing-svg)
 
 * 👋 Hi! I am Lee Juin.
+* 👨🏻‍💻 Backend SWE @ TikTok
 * 📜 NTU CS; First Class Honours (Highest Distinction) + Dean's List.
-* 🔥 Full-stack development in NodeJS | Microservice development with Java Spring Boot
-* 💡 Currently learning Java Liferay DXP
 * 🔗 [Website](https://leejuin.com), [LinkedIn](https://linkedin.com/in/juin-lee)
 
 ## Education
@@ -14,7 +13,9 @@
 * May 2023 - Dec 2023: Software Engineer Intern @ <a href="https://www.ntu.edu.sg/temasek-labs">Temasek Laboratories@NTU</a>
 * Jan 2024 - Apr 2024: Software Engineer Intern @ <a href="https://proxtera.com/">Proxtera</a>
 * May 2024 - Dec 2024: Software Engineer Intern @ <a href="https://ocbc.com">OCBC Bank</a>
-* Mar 2025 - <i>Present</i>: Associate Software Engineer @ <a href="https://cgsi.com">CGS International Securities</a>
+* Mar 2025 - Jun 2025: Associate Software Engineer @ <a href="https://cgsi.com">CGS International Securities</a>
+* Jul 2025 - Aug 2025: Software Engineer (Graduate Talent Programme) @ <a href="https://ocbc.com">OCBC Bank</a>
+* Sep 2025 - Present: Backend Software Engineer @ <a href="https://lifeattiktok.com/">TikTok</a>
 
 ## Featured Projects
 #### [JobWise: Application Tracker as-a-Service](https://github.com/Neo-Zenith/sc4052-application-tracker)
