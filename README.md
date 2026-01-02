@@ -53,13 +53,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 December 2025 - To: 01 January 2026
+From: 26 December 2025 - To: 02 January 2026
 
-TypeScript    1 hr 21 mins    >>>>>>>>>>>--------------   44.97 %
-CSS           46 mins         >>>>>>-------------------   25.82 %
-JavaScript    40 mins         >>>>>>-------------------   22.31 %
-JSON          5 mins          >------------------------   02.88 %
-Other         4 mins          >------------------------   02.62 %
+TypeScript    1 hr 49 mins    >>>>>>>>>>>>>>>>>>-------   70.59 %
+CSS           25 mins         >>>>---------------------   16.13 %
+JavaScript    8 mins          >------------------------   05.23 %
+JSON          5 mins          >------------------------   03.36 %
+Other         4 mins          >------------------------   03.06 %
 ```
 
 <!--END_SECTION:waka-->
