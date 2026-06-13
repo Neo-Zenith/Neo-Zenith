@@ -1,8 +1,7 @@
 ## About ⭐
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&vCenter=true&width=435&height=35&lines=Hi+there!+Welcome+to+my+GitHub.;I+am+a+full-stack+software+engineer.;Let's+connect!)](https://git.io/typing-svg)
 
-* 👋 Hi! I am Lee Juin.
-* 👨🏻‍💻 Software Engineer at TikTok.
+* 👨🏻‍💻 Backend Software Engineer at TikTok.
 * 📜 Bachelor of Computing in Computer Science at NTU Singapore (2021-2024)
 * 🔗 [Website](https://leejuin.com), [LinkedIn](https://linkedin.com/in/juin-lee)
 
@@ -13,17 +12,12 @@
 * Sep 2025 - Present: Backend Software Engineer @ <a href="https://lifeattiktok.com/">TikTok</a>
 * Mar 2025 - Jun 2025: Associate Software Engineer @ <a href="https://cgsi.com">CGS International Securities</a>
 * May 2024 - Dec 2024: Software Engineer Intern @ <a href="https://ocbc.com">OCBC Bank</a>
-* Jan 2024 - Apr 2024: Software Engineer Intern @ <a href="https://proxtera.com/">Proxtera</a>
-* May 2023 - Dec 2023: Software Engineer Intern @ <a href="https://www.ntu.edu.sg/temasek-labs">Temasek Laboratories@NTU</a>
 
 ## Featured Projects
 #### [ATLAS: Web-based Automated Transcription & Speaker-Label Analysis System](https://dr.ntu.edu.sg/entities/publication/db32f8d4-e5d6-41a6-a82c-ed9c4d5d6fe1)
-* Final-year capstone project on a web application for speech diarization and automatic speech recognition (ASR).
-* Allows users to upload or record audio for analysis, accurately distinguishing speakers and transcribing their speech.
-* Built backend with Node Nestjs and MongoDB database and developed the frontend with React.
-* Designed an optimized chunk-based upload strategy to handle recording files of various sizes.
-* Implemented microservice architecture and explored on ways to implement horizontal auto-scaling with k8s containers.
-* Integrated industry-standard CI/CD tools such as Jenkins and Synk code security to improve development efficiency and code quality.
+* Built a web-based speech analysis platform (ATLAS) for automatic speech recognition and speaker diarization, enabling users to upload or record audio for transcription with speaker labels.
+* Developed a scalable microservices architecture using NestJS (backend), React (frontend), and MongoDB, including chunk-based upload handling for large audio files.
+* Implemented DevOps practices with CI/CD (Jenkins), security scanning (Snyk), and explored Kubernetes-based horizontal auto-scaling to improve reliability and deployment efficiency.
 
 #### [JobWise: Application Tracker as-a-Service](https://github.com/Neo-Zenith/sc4052-application-tracker)
 * Co-developed a web app that tracks LinkedIn job applications and provides tailored resume analysis, feedback and scoring.
