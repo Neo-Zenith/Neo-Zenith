@@ -8,11 +8,6 @@
 ## Education
   * Aug 2021 - Dec 2024: Bachelor of Computing (Honours) in Computer Science from [Nanyang Technological University, NTU Singapore](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-computer-science)
 
-## Work Experience 
-* Sep 2025 - Present: Backend Software Engineer @ <a href="https://lifeattiktok.com/">TikTok</a>
-* Mar 2025 - Jun 2025: Associate Software Engineer @ <a href="https://cgsi.com">CGS International Securities</a>
-* May 2024 - Dec 2024: Software Engineer Intern @ <a href="https://ocbc.com">OCBC Bank</a>
-
 ## Featured Projects
 #### [ATLAS: Web-based Automated Transcription & Speaker-Label Analysis System](https://dr.ntu.edu.sg/entities/publication/db32f8d4-e5d6-41a6-a82c-ed9c4d5d6fe1)
 * Built a web-based speech analysis platform (ATLAS) for automatic speech recognition and speaker diarization, enabling users to upload or record audio for transcription with speaker labels.
